@@ -1,0 +1,30 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "Project2"
+    },
+    {
+        "ParameterKey": "MyVPC",
+        "ParameterValue": "vpc-0b4fec313a6cca023"
+    },
+    {
+        "ParameterKey": "PublicSubnet",
+        "ParameterValue": "subnet-0adcb4912a2b7d72f"
+    },
+    {
+        "ParameterKey": "ImageId",
+        "ParameterValue": "ami-00874d747dde814fa"
+    }    
+       
+]
+    
+    
+   
+
+
+
+
+
+
+
+
