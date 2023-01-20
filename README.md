@@ -23,3 +23,7 @@ P2server-parameter.json: Parameters file for servers cloud formation stack.
 P2server.yml: CloudFormation template for creating servers for this project.
 
 P2-Infrastructure-diagram: This shows visual aid to understand the CloudFormation script.
+
+
+##Github repo URL
+https://github.com/frankywobs/Cloudformation_project_02
