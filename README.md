@@ -1,7 +1,7 @@
 ### Project Title - Deploy a high-availability web app using CloudFormation
 
 
-Project Overview:
+##Project Overview:
 
 
 Your company is creating an Instagram clone called Udagram.
@@ -11,7 +11,7 @@ This needs to be automated so that the infrastructure can be discarded as soon a
 
 
 
-Project Files:
+##Project Files:
 
 
 P2-infra-parameter.json: Parameters file for network cloudformation stack.
@@ -27,3 +27,8 @@ P2-Infrastructure-diagram: This shows visual aid to understand the CloudFormatio
 
 ##Github repo URL
 https://github.com/frankywobs/Cloudformation_project_02
+
+##Server URL
+http://proje-WebAp-7WPFGER3P5T-1688702757.us-east-1.elb.amazonaws.com 
+
+

@@ -14,8 +14,11 @@
     {
         "ParameterKey": "ImageId",
         "ParameterValue": "ami-00874d747dde814fa"
-    }    
-       
+    },
+    {
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t3.small"
+    }  
 ]
     
     
