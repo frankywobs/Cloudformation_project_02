@@ -29,6 +29,6 @@ P2-Infrastructure-diagram: This shows visual aid to understand the CloudFormatio
 https://github.com/frankywobs/Cloudformation_project_02
 
 ##Server URL
-http://proje-WebAp-7WPFGER3P5T-1688702757.us-east-1.elb.amazonaws.com 
+http://proje-webap-3cx4wy3yvd7e-592495850.us-east-1.elb.amazonaws.com/
 
 
